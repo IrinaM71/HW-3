@@ -26,4 +26,27 @@
   cursor: pointer;
 }
 
-ex
+.li {
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 2px solid yellowgreen;
+}
+span {
+  padding: 15px 15px;
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(57, 152, 180);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.return {
+  width: 200px;
+  height: 40px;
+  border: 1px solid rgb(38, 204, 121);
+  border-radius: 10px;
+  background-color: rgb(169, 228, 193);
+  font-size: 14px;
+  color: chocolate;
+}

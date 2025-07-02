@@ -1,4 +1,5 @@
 import Rating from "./components/rating";
+import List from "./components/List";
 import "./App.css";
 
 function App() {
@@ -6,6 +7,9 @@ function App() {
     <div className="App">
       <h1>Выберите рейтинг</h1>
       <Rating />
+      <div>
+        <List />
+      </div>
     </div>
   );
 }
