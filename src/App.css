@@ -1,1 +1,29 @@
+.rating-container {
+  text-align: center;
+  margin: 20px;
+}
 
+.rating-image {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.rating-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: aqua;
+  color: blue;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+ex
